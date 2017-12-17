@@ -18,5 +18,5 @@ from django.contrib import admin
 from .views import *
 
 urlpatterns = [
-    url(r'^test/', classfiy),
+    url(r'^classify/', classify),
 ]
